@@ -1,0 +1,5 @@
+## Deploy to Render
+- Create new Web Service  
+- Use `Python 3`  
+- Start command: `python app.py`  
+- Add all files from this project
